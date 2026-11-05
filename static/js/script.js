@@ -1,4 +1,4 @@
-console.log('%cCopyright \xA9 2025 Yeharn', 'background-color: #000000; color: white; font-size: 24px; font-weight: bold; padding: 10px;');
+console.log('%cCopyright \xA9 2026 Yeharn', 'background-color: #000000; color: white; font-size: 24px; font-weight: bold; padding: 10px;');
 console.log('%c▓██   ██▓▓█████  ██░ ██  ▄▄▄       ██▀███   ███▄    █ ', 'color: #8B4513; font-size: 12px;');
 console.log('%c ▒██  ██▒▓█   ▀ ▓██░ ██▒▒████▄    ▓██ ▒ ██▒ ██ ▀█   █ ', 'color: #8B4513; font-size: 12px;');
 console.log('%c  ▒██ ██░▒███   ▒██▀▀██░▒██  ▀█▄  ▓██ ░▄█ ▒▓██  ▀█ ██▒', 'color: #8B4513; font-size: 12px;');
